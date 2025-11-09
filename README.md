@@ -36,11 +36,11 @@ The suite includes scripts for **backups**, **system updates**, **log monitoring
 ---
 
 ## Usage Instructions
-1. How to clone : (do it in ubuntu terminal)
+1. How to clone : (do it in ubuntu terminal) -->
       git clone https://github.com/priyansu1274/Linux_System_Automation.git
 
-2. Make all scripts executable:
+2. Make all scripts executable:--> 
      chmod +x *.sh
 
-3. To run code
+3. To run code -->
    bash file_name
